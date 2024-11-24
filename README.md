@@ -1,8 +1,11 @@
 # RideOrDie
 BTU Game Programming Midterm project
 
-# Oyunun Adı Nedir ? 
-<p>Oyunumuzun ismi RideOrDie.</p>
+# Oyunun Adı Nedir ? Oyunu kimler yaptı ?
+<p>Oyunumuzun ismi RideOrDie. Mustafa ve Ben(Adem) kodlamasını yaptık. Hazır asset kullanmadık. Game art'ını aseprite'la yaptım.</p>
+
+
+
 
 # Nereden Oynayabilirim ? 
 <p> <a href="https://adamengine.itch.io/rideordie">LINK</a>'e tıklayarak oynayabilirsiniz (Link sizi https://adamengine.itch.io/rideordie 'a yönlendirir) .</p>
