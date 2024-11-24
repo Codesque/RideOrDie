@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 67107382780703198}
   - component: {fileID: 3243927671348033470}
   - component: {fileID: 190472998703751553}
+  - component: {fileID: 2175818537789858448}
   m_Layer: 0
   m_Name: LimousinePurple
   m_TagString: Untagged
@@ -143,7 +144,7 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -162,3 +163,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SlowPercentage: 0
+--- !u!114 &2175818537789858448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1317897350050197929}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd70d8ec27bf14d448543f2fd08f3909, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ExplosionController: {fileID: 1685119750788374650, guid: aaad8cf986fc3304c9f1bca017dfe21f, type: 3}
