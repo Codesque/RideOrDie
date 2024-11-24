@@ -1,6 +1,9 @@
 # RideOrDie
 BTU Game Programming Midterm project
 
+# Oyunun Adı Nedir ? 
+<p>Oyunumuzun adı RideOrDie.</p>
+
 # Nereden Oynayabilirim ? 
 <p> <a href="https://adamengine.itch.io/rideordie">LINK</a>'e tıklayarak oynayabilirsiniz (Link sizi https://adamengine.itch.io/rideordie 'a yönlendirir) .</p>
 
