@@ -1,6 +1,9 @@
 # RideOrDie
 BTU Game Programming Midterm project
 
+# Nereden Oynayabilirim ? 
+<p> <a href="https://adamengine.itch.io/rideordie">LINK</a>'e tıklayarak oynayabilirsiniz (Link sizi https://adamengine.itch.io/rideordie 'a yönlendirir) .</p>
+
 # Oynanış Hakkında Bilgilendirme 
 <p> Oyun Mouse imleciyle oynanır. İmleci arabanın ortasına getirerek arabayı yavaşlatabilirsiniz.Çimene - toprağa bastığınızda yavaşlarsınız. Topraktan çıkınca eski hızınıza geri dönersiniz. Geçici ve kalıcı olmak üzere iki adet buff bulunmakta. Ayrıca diğer arabalara ve kare kare olan minecraft çimenlerine çarpmamaya dikkat etmelisiniz yoksa patlarsınız. </p>
 
