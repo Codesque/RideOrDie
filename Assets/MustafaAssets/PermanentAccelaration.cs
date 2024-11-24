@@ -14,7 +14,8 @@ public class PermanentAccelaration : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        transform.position += Vector3.down * 3f * Time.deltaTime;
+        if (transform.position.y <= -12f) Destroy(this.gameObject);
     }
     void OnTriggerEnter2D(Collider2D other){
         if(other.tag == "PlayerCar"){
